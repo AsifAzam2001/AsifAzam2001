@@ -6,6 +6,8 @@ B.Sc in CSE @RUET | Competitive Programmer | Web & Machine Learning Enthusiast
 
 Experienced in solving algorithmic problems through ACM-style problem solving and competitive programming contests, developing sharp analytical skills and logical reasoning abilities. Equipped with a robust understanding of fundamental Computer Science concepts and skilled in building web applications using modern technologies. Confident in learning on demand, adapting quickly to new technologies and ideas. Passionate about staying up to date with tech trends and always looking for ways to improve through practical exploration.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsifAzam2001&label=Profile%20views&color=0e75b6&style=flat" alt="Asif Azam" /> </p>
+
 * 🌍  I'm based in Rajshahi, Bangladesh
 * ✉️  You can contact me at [asifazam2001@gmail.com](mailto:asifazam2001@gmail.com)
 
@@ -42,12 +44,24 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
 </p>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AsifAzam2001"><img src="https://github-readme-stats.vercel.app/api?username=AsifAzam2001&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AsifAzam2001's GitHub stats" /></a>
-
-<a href="http://www.github.com/AsifAzam2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifAzam2001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/AsifAzam2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Github Overview
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/AsifAzam2001">
+        <img alt="Asif Azam's github stat" height="200px" src="https://github-readme-stats.vercel.app/api?username=AsifAzam2001&show_icons=true&count_private=true&theme=dark" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/AsifAzam2001">
+        <img alt="Asif Azam's gitHub streak" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=AsifAzam2001&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td aligh="left">
+      <a href="https://github.com/AsifAzam2001">
+<img alt="Asif Azam's github languages" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&langs_count=8&layout=compact&theme=dark&hide=html,css,shell,batchfile,Tcl,lex,yacc,Awk,TeX" /></a>
+    </td>
+  </tr>
+</table>
