@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Asif
 ============================================================================================================================
 
-B.Sc in CSE @RUET | Competitive Programmer | Web & Machine Learning Enthusiast
-------------------------------------------------------------------------------
+B.Sc in CSE @RUET | Competitive Programmer | Web Dev & Machine Learning Enthusiast
+----------------------------------------------------------------------------------
 
 Experienced in solving algorithmic problems through ACM-style problem solving and competitive programming contests, developing sharp analytical skills and logical reasoning abilities. Equipped with a robust understanding of fundamental Computer Science concepts and skilled in building web applications using modern technologies. Confident in learning on demand, adapting quickly to new technologies and ideas. Passionate about staying up to date with tech trends and always looking for ways to improve through practical exploration.
 
@@ -11,7 +11,7 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
 * 🌍  I'm based in Rajshahi, Bangladesh
 * ✉️  You can contact me at [asifazam2001@gmail.com](mailto:asifazam2001@gmail.com)
 
-### Connect me:
+### Connect with me:
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/asif-azam-biswas-bb6995229/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
