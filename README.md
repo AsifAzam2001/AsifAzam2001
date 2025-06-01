@@ -64,6 +64,10 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
 
 ## Github Overview
 
+![Asif Azam's Github stats](https://github-readme-stats.vercel.app/api?username=AsifAzam2001&show_icons=true&count_private=true&hide=contribs&theme=dark)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAzam2001&layout=compact&theme=dark)
+
+<!--
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;" width="50%">
@@ -85,3 +89,4 @@ Experienced in solving algorithmic problems through ACM-style problem solving an
     </td>
   </tr>
 </table>
+-->
